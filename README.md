@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/LRosen656/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![View my Story Map](https://umn.maps.arcgis.com/apps/MapJournal/index.html?appid=d6e8ec68d510423caee388de943d5dc5
+)]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This portfolio shows maps, models, and code that I worked on for the Potato Soil Health project at The University of Minnesota
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![View my Story Map][https://www.arcgis.com/sharing/rest/content/items/d6e8ec68d510423caee388de943d5dc5/resources/IMG_8536__1606591141705__thumb.jpg](https://umn.maps.arcgis.com/apps/MapJournal/index.html?appid=d6e8ec68d510423caee388de943d5dc5
+)]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LRosen656/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
